@@ -1,0 +1,8 @@
+mediapipe
+pandas
+opencv-python-headless
+tensorflow
+scikit-learn
+numpy
+pandas
+selenium
